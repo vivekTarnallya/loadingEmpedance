@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+
+
+
+:root {
+  background-color: white;
+}
+
+
+/* .customBorder {
+
+  border: 2px solid transparent;
+  border-radius: 60px;
+  border-image: linear-gradient(to top, #01466B, #0288D1) 1;
+  border-color: linear-gradient(to top, #01466B, #0288D1) 1;
+  
+} */
+
+
+
+
